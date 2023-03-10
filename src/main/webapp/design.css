@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+label{
+	color:white;
+}
+
+input[type=text], select, textarea {
+  opacity:0.5;
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
